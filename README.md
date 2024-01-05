@@ -1,3 +1,4 @@
 # Trading-Service
 
-![architecture drawio](https://github.com/ndavidson19/Trading-Service/assets/59320455/dfb38f91-291d-49bc-b34c-9b50526b2660)
+
+![Untitled Diagram drawio](https://github.com/ndavidson19/Trading-Service/assets/59320455/6cb3e5ad-7cf8-410a-9bc5-8c92e92ae448)
